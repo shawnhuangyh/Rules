@@ -1,0 +1,5 @@
+#!name=Hide Surge VPN Icon
+#!desc=Due to Apple's regulation, after Surge 4.11.0, hide VPN Icon option will be removed from the settings. Instead, an option should be appended to the profile.
+
+[General]
+hide-vpn-icon = true

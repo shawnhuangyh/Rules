@@ -1,5 +1,5 @@
 #!name=Amap Redirect
-#!desc=使无GPS的设备的默认地图更改为高德地图
+#!desc=Modify default map provider for Non-GPS device.
 
 [Rule]
 DOMAIN,gspe1-ssl.ls.apple.com,Direct

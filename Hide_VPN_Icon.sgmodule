@@ -1,0 +1,6 @@
+#!name=Hide Surge VPN Icon
+#!desc=Hide VPN Icon.
+#!system=ios
+
+[General]
+hide-vpn-icon = true

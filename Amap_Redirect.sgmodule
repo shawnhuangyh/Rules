@@ -1,0 +1,5 @@
+#!name=Amap Redirect
+#!desc=Modify default map provider for Non-GPS device.
+
+[Rule]
+DOMAIN,gspe1-ssl.ls.apple.com,Direct

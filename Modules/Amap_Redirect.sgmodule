@@ -2,5 +2,4 @@
 #!desc=Modify default map provider for Non-GPS device.
 
 [Rule]
-DOMAIN,gspe1-ssl.ls.apple.com,Direct
-DOMAIN-SUFFIX,autonavi.com,Direct
+DOMAIN,gspe1-ssl.ls.apple.com,direct

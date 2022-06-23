@@ -2,5 +2,4 @@
 #!desc=Redirect Wikipedia to desktop version.
 
 [URL Rewrite]
-^https?://zh.m.wikipedia\.org/ https://zh.wikipedia.org/ 302
-^https?://en.m.wikipedia\.org/ https://en.wikipedia.org/ 302
+^https:\/\/(.*?)\.m\.wikipedia\.org\/(.*) https://$1.wikipedia.org/$2 302

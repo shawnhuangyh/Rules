@@ -1,5 +1,0 @@
-#!name=Wikipedia Redirect
-#!desc=Redirect Wikipedia to desktop version.
-
-[URL Rewrite]
-^https:\/\/(.*?)\.m\.wikipedia\.org\/(.*) https://$1.wikipedia.org/$2 302

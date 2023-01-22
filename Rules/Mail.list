@@ -8,5 +8,6 @@ DOMAIN,smtp-mail.outlook.com
 DOMAIN,smtp.gmail.com
 DOMAIN,smtp.office365.com
 DOMAIN,smtp.mail.me.com
+DOMAIN-SUFFIX,mail.me.com
 DOMAIN-SUFFIX,apple.imap.mail.yahoo.com
 DOMAIN-SUFFIX,m.hotmail.com

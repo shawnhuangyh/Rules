@@ -1,0 +1,5 @@
+#!name=MITM Mihoyo
+#!desc=Add MITM for Mihoyo games
+
+[MITM]
+hostname = %APPEND% *.mihoyo.com

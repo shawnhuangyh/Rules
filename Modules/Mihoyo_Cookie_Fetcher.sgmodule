@@ -1,9 +1,0 @@
-#!name=Mihoyo Cookie Fetcher
-#!desc=Fetch cookie for Mihoyo Auto Checkin
-
-[Script]
-http-request ^https:\/\/api-takumi.mihoyo.com\/apihub\/api\/getGameList script-path=https://raw.githubusercontent.com/chavyleung/scripts/master/mihoyo/mihoyo.cookie.js
-
-
-[MITM]
-hostname = %APPEND% *.mihoyo.com

@@ -6,3 +6,6 @@ DOMAIN-SUFFIX,huggingface.co
 
 # > F1 TV Related
 DOMAIN-SUFFIX,privacy-mgmt.com
+
+# > Binance
+DOMAIN-SUFFIX,bnbstatic.com

@@ -1,0 +1,15 @@
+# > Yahoo JP
+DOMAIN-SUFFIX,yahoo.co.jp
+DOMAIN-SUFFIX,yahoo.jp
+DOMAIN-SUFFIX,yahooapis.jp
+DOMAIN-SUFFIX,yimg.jp
+DOMAIN-SUFFIX,ylive.jp
+DOMAIN-SUFFIX,slim01.jp
+DOMAIN-SUFFIX,clarity.ms
+DOMAIN-SUFFIX,brightcove.com
+DOMAIN-SUFFIX,edge.api.brightcove.com
+DOMAIN-SUFFIX,players.brightcove.net
+
+# > NewsPicks
+DOMAIN-SUFFIX,newspicks.com
+DOMAIN-SUFFIX,vod.newspicks.com

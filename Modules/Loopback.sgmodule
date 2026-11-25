@@ -1,0 +1,9 @@
+#!name=On-Device Developer Services
+#!desc=Loops 10.7.0.1 back to the device through Surge so SideStore and similar tools can reach local developer services.
+
+[General]
+ipv6-vif = disabled
+tun-included-routes = %INSERT% 10.7.0.1/32
+
+[IP Rewrite]
+10.7.0.1 = reflect

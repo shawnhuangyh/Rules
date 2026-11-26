@@ -32,3 +32,14 @@ DOMAIN-SUFFIX,hayabusa.io
 DOMAIN-SUFFIX,hayabusa.media
 DOMAIN-SUFFIX,ameba.jp
 DOMAIN-SUFFIX,ameblo.jp
+
+# > JR
+DOMAIN-SUFFIX,jrhokkaido.co.jp
+DOMAIN-SUFFIX,jreast.co.jp
+DOMAIN-SUFFIX,jr-central.co.jp
+DOMAIN-SUFFIX,westjr.co.jp
+DOMAIN-SUFFIX,jr-shikoku.co.jp
+DOMAIN-SUFFIX,jrkyushu.co.jp
+DOMAIN-SUFFIX,jrepoint.jp
+DOMAIN-SUFFIX,eki-net.com
+DOMAIN-SUFFIX,mobilesuica.com

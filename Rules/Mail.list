@@ -1,13 +1,23 @@
 # > Mail
+
+# > Outlook
 DOMAIN,imap-mail.outlook.com
-DOMAIN,imap.gmail.com
-DOMAIN,imap.mail.me.com
-DOMAIN,outlook.office365.com
-DOMAIN,pop.gmail.com
 DOMAIN,smtp-mail.outlook.com
-DOMAIN,smtp.gmail.com
 DOMAIN,smtp.office365.com
+DOMAIN,outlook.office365.com
+DOMAIN-SUFFIX,m.hotmail.com
+
+# > Gmail
+DOMAIN,imap.gmail.com
+DOMAIN,smtp.gmail.com
+DOMAIN,pop.gmail.com
+
+# > iCloud
+DOMAIN,imap.mail.me.com
 DOMAIN,smtp.mail.me.com
 DOMAIN-SUFFIX,mail.me.com
-DOMAIN-SUFFIX,apple.imap.mail.yahoo.com
-DOMAIN-SUFFIX,m.hotmail.com
+
+# > Yahoo
+DOMAIN,imap.mail.yahoo.com
+DOMAIN,smtp.mail.yahoo.com
+DOMAIN-SUFFIX,mail.yahoo.com
